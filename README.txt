@@ -15,6 +15,9 @@ all information is stored within truffle blockchain. depending on which configur
 smart contract, only the main admin can assign roles to other users. this can be changed using the multi admin configuration
 see above for which configuration is being used. 
 
+before starting, users will need to install node.js in both front and back end folders
+cd into both folders and use "npm install" to download all neccessary packages and modlues. 
+
 for first users:
 to start the system, you will need to first have truffle installed. (https://archive.trufflesuite.com/ganache/) you may choose to install either the GUI or CLI version of truffle,
 but for this project, the GUI version was used. 
